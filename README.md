@@ -2,6 +2,8 @@
 
 The following projects demonstrates 3 queries against a relational database. The requested queries can be found in SQL_Samples.sql and the accompanying files can be used to test the queries.
 
+![alt text](https://github.com/iamchrishodges/sql-project-employee/blob/master/Project-Employee-DM.png)
+
 # Contents
 * SQL_Samplesql.sql : Location of all three queries. Each query is separated with a comment explaining their usage.
 * RelationDataModeling.bak : A sample database containing a small data set of values.
