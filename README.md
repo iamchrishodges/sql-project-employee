@@ -3,7 +3,8 @@
 The following projects demonstrates 3 queries against a relational database.
 
 # Contents
-
+* SQL_Samplesql.sql : Location of all three queries. Each query is separated with a comment explaining their usage.
+* bak
 # Prompt 
 
 ## Problem Spec
