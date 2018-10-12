@@ -1,6 +1,6 @@
 # sql-project-employee
 
-The following projects demonstrates 3 queries against a relational database.
+The following projects demonstrates 3 queries against a relational database. The requested queries can be found in SQL_Samplessql.sql
 
 # Contents
 * SQL_Samplesql.sql : Location of all three queries. Each query is separated with a comment explaining their usage.
