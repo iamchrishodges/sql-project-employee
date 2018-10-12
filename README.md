@@ -4,7 +4,9 @@ The following projects demonstrates 3 queries against a relational database.
 
 # Contents
 * SQL_Samplesql.sql : Location of all three queries. Each query is separated with a comment explaining their usage.
-* bak
+* RelationDataModeling.bak : A sample database containing a small data set of values.
+* SQL_Samplesql.sql : A SQL Script that will create empty for the tables. This can be used instead of the bak, if desired.
+* Project-Employee-DM.png : An image displaying the schema diagram for the data model.
 # Prompt 
 
 ## Problem Spec
