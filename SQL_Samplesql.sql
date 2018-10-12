@@ -1,21 +1,5 @@
 USE RelationDataModeling
 
-CREATE TABLE Employee (
-    SSID int NOT NULL PRIMARY KEY,
-	ManagerSSID int,
-    Name varchar(255)
-);
-
-CREATE TABLE ProjectMapping (
-    ProjectID int,
-	EmployeeSSID int   
-);
-
-CREATE TABLE Project (
-	ID int NOT NULL PRIMARY KEY,
-	Name varchar(255)
-)
-
 /* 1. Return a list of employees' names, and their manager's names (except the highest level employee who will have no manager - his or her manager should show "NULL" or empty). */
 SELECT e1.Name,
        e2.name AS ManagerName
