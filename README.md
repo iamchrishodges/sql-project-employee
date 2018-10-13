@@ -1,6 +1,6 @@
 # sql-project-employee
 
-The following projects demonstrates 3 queries against a relational database. The requested queries can be found in SQL_Samples.sql and the accompanying files can be used to test the queries.
+The following project demonstrates 3 queries against a relational database. The requested queries can be found in SQL_Samples.sql and the accompanying files can be used to test the queries.
 
 ![alt text](https://github.com/iamchrishodges/sql-project-employee/blob/master/Project-Employee.png)
 
